@@ -1,2 +1,2 @@
-# secure-pass-gen
- Simple secure password generator
+# Simple CLI password generator
+ Text based password generator, nothing special.
